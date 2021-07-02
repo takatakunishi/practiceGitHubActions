@@ -1,5 +1,6 @@
 {
   "name": "sample_react",
+  "homepage": "https://takatakunishi.github.io/practiceGitHubActions",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
