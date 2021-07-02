@@ -31,7 +31,7 @@ jobs:
         CI: true
 
     - name: deploy
-      uses: peaceiris/actions-gh_pages@v2
+      uses: peaceiris/actions_gh_pages@v2
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: gh_pages
