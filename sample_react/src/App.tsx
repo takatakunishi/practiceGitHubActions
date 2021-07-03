@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Hello GithubActions & jest
+          learn react
         </a>
       </header>
     </div>
